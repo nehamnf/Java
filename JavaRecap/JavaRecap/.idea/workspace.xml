@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36383992-d4d7-4e52-aeb3-0b5b7de9ab8d" name="Changes" comment="java functional interface concept">
+    <list default="true" id="36383992-d4d7-4e52-aeb3-0b5b7de9ab8d" name="Changes" comment="java reflection concepts">
+      <change afterPath="$PROJECT_DIR$/src/com/neha/annotations/AnnotationsExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +49,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AnnotationsExample.executor": "Run",
     "Application.ConsumerExample.executor": "Run",
     "Application.FunctionalInterfaceExamples.executor": "Run",
     "Application.ReflectionExample.executor": "Run",
@@ -97,7 +99,7 @@
       <workItem from="1771496575543" duration="85000" />
       <workItem from="1771500715066" duration="68000" />
       <workItem from="1771500843212" duration="688000" />
-      <workItem from="1771502934524" duration="818000" />
+      <workItem from="1771502934524" duration="5132000" />
     </task>
     <task id="LOCAL-00001" summary="singleton class examples">
       <option name="closed" value="true" />
@@ -131,7 +133,23 @@
       <option name="project" value="LOCAL" />
       <updated>1771419749861</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="java reflection concepts">
+      <option name="closed" value="true" />
+      <created>1771503924701</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1771503924701</updated>
+    </task>
+    <task id="LOCAL-00006" summary="java reflection concepts">
+      <option name="closed" value="true" />
+      <created>1771504009867</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1771504009867</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,7 +171,8 @@
     <MESSAGE value="removed unnecessary" />
     <MESSAGE value="java generics concept" />
     <MESSAGE value="java functional interface concept" />
-    <option name="LAST_COMMIT_MESSAGE" value="java functional interface concept" />
+    <MESSAGE value="java reflection concepts" />
+    <option name="LAST_COMMIT_MESSAGE" value="java reflection concepts" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
