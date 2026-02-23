@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36383992-d4d7-4e52-aeb3-0b5b7de9ab8d" name="Changes" comment="java reflection concepts">
-      <change afterPath="$PROJECT_DIR$/src/com/neha/annotations/AnnotationsExample.java" afterDir="false" />
+    <list default="true" id="36383992-d4d7-4e52-aeb3-0b5b7de9ab8d" name="Changes" comment="java Annotations concepts">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +42,9 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="39nvkk8IzOtWOWFyWZIlHqESN7f" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -50,10 +52,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AnnotationsExample.executor": "Run",
+    "Application.CompileTimeExceptions.executor": "Run",
     "Application.ConsumerExample.executor": "Run",
+    "Application.CustomException.executor": "Run",
     "Application.FunctionalInterfaceExamples.executor": "Run",
     "Application.ReflectionExample.executor": "Run",
     "Application.ReflectionInSingleton.executor": "Run",
+    "Application.RunTimeExceptionsExm.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -67,6 +72,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
@@ -99,7 +107,8 @@
       <workItem from="1771496575543" duration="85000" />
       <workItem from="1771500715066" duration="68000" />
       <workItem from="1771500843212" duration="688000" />
-      <workItem from="1771502934524" duration="5132000" />
+      <workItem from="1771502934524" duration="6193000" />
+      <workItem from="1771835027531" duration="5623000" />
     </task>
     <task id="LOCAL-00001" summary="singleton class examples">
       <option name="closed" value="true" />
@@ -149,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771504009867</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="java Annotations concepts">
+      <option name="closed" value="true" />
+      <created>1771830869662</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1771830869662</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,7 +189,8 @@
     <MESSAGE value="java generics concept" />
     <MESSAGE value="java functional interface concept" />
     <MESSAGE value="java reflection concepts" />
-    <option name="LAST_COMMIT_MESSAGE" value="java reflection concepts" />
+    <MESSAGE value="java Annotations concepts" />
+    <option name="LAST_COMMIT_MESSAGE" value="java Annotations concepts" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
