@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36383992-d4d7-4e52-aeb3-0b5b7de9ab8d" name="Changes" comment="java Annotations concepts">
+    <list default="true" id="36383992-d4d7-4e52-aeb3-0b5b7de9ab8d" name="Changes" comment="java Exceptions concept">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +59,7 @@
     "Application.ReflectionExample.executor": "Run",
     "Application.ReflectionInSingleton.executor": "Run",
     "Application.RunTimeExceptionsExm.executor": "Run",
+    "Application.SwitchExpressionExample.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -108,7 +109,7 @@
       <workItem from="1771500715066" duration="68000" />
       <workItem from="1771500843212" duration="688000" />
       <workItem from="1771502934524" duration="6193000" />
-      <workItem from="1771835027531" duration="5623000" />
+      <workItem from="1771835027531" duration="15798000" />
     </task>
     <task id="LOCAL-00001" summary="singleton class examples">
       <option name="closed" value="true" />
@@ -166,7 +167,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771830869662</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="java Exceptions concept">
+      <option name="closed" value="true" />
+      <created>1771848300255</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1771848300256</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,7 +199,8 @@
     <MESSAGE value="java functional interface concept" />
     <MESSAGE value="java reflection concepts" />
     <MESSAGE value="java Annotations concepts" />
-    <option name="LAST_COMMIT_MESSAGE" value="java Annotations concepts" />
+    <MESSAGE value="java Exceptions concept" />
+    <option name="LAST_COMMIT_MESSAGE" value="java Exceptions concept" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
