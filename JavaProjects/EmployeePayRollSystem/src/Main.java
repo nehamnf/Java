@@ -1,12 +1,28 @@
+/**
+ * Main class to demonstrate the Employee Payroll System.
+ * Creates employees, adds them to the system, and displays the results.
+ */
 public class Main {
+    /**
+     * Main method - entry point of the application.
+     * Demonstrates creating employees and managing payroll.
+     * @param args Command line arguments (not used)
+     */
     public static void main(String[] args) {
-        PayRollSystem payRollSystem= new PayRollSystem();
-        FullTimeEmployee fullTimeEmployee= new FullTimeEmployee("neha",1,10000.0);
-        PartTimeExmployee  partTimeExmployee= new PartTimeExmployee("mn",2,30,10000);
+        // Create repository and payroll service
+        EmployeeRepository employeeRepository = new EmployeeRepository();
+        PayRollService payRollSystem= new PayRollService(employeeRepository);
+        
+        // Create employees
+        FullTimeEmployee fullTimeEmployee= new FullTimeEmployee("neha",10000.0);
+        PartTimeEmployee partTimeExmployee= new PartTimeEmployee("mn",30,10000);
+        
+        // Add employees to the payroll system
         payRollSystem.addEmployee(fullTimeEmployee);
         payRollSystem.addEmployee(partTimeExmployee);
-        payRollSystem.displayEmployee();
-        payRollSystem.removeEmployee(partTimeExmployee.getEmpID());
-        payRollSystem.displayEmployee();
+        
+        // Display all employees
+        System.out.println(payRollSystem.listAllEmployees());
+
     }
 }
