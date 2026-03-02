@@ -57,11 +57,13 @@
     "Application.ConsumerExample.executor": "Run",
     "Application.CustomException.executor": "Run",
     "Application.FunctionalInterfaceExamples.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.ReflectionExample.executor": "Run",
     "Application.ReflectionInSingleton.executor": "Run",
     "Application.RunTimeExceptionsExm.executor": "Run",
     "Application.StreamsExample.executor": "Run",
     "Application.SwitchExpressionExample.executor": "Run",
+    "Application.ThreadingExm.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -116,6 +118,7 @@
       <workItem from="1771502934524" duration="6193000" />
       <workItem from="1771835027531" duration="16354000" />
       <workItem from="1772014029764" duration="21135000" />
+      <workItem from="1772274350633" duration="7011000" />
     </task>
     <task id="LOCAL-00001" summary="singleton class examples">
       <option name="closed" value="true" />
