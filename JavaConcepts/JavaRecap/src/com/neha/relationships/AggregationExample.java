@@ -1,4 +1,4 @@
-package com.neha.relationship.aggregation;
+package com.neha.relationships;
 
 public class AggregationExample {
 

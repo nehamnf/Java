@@ -6,7 +6,8 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.concurrent.locks.ReadWriteLock;
 
-public class ProducerConsumer {public Queue<Integer> bufferQueue ;
+public class ProducerConsumer {
+    public Queue<Integer> bufferQueue ;
     public int bufferSize;
 
     public ProducerConsumer(int bufferSize){

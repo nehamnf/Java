@@ -4,8 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36383992-d4d7-4e52-aeb3-0b5b7de9ab8d" name="Changes" comment="java multithreading concepts">
+    <list default="true" id="36383992-d4d7-4e52-aeb3-0b5b7de9ab8d" name="Changes" comment="java concepts">
+      <change afterPath="$PROJECT_DIR$/../../JavaProjects/BankApplication/src/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaProjects/BankApplication/src/BankApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaProjects/BankApplication/src/Checking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaProjects/BankApplication/src/InterestRate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaProjects/BankApplication/src/Savings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neha/has/a/relationship/association/AggregationExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/neha/relationships/AggregationExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neha/has/a/relationship/association/AssociationExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/neha/relationships/AssociationExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neha/has/a/relationship/association/CompositionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/neha/relationships/CompositionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neha/multithreading/locks/readwritelock/ProducerConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/neha/multithreading/locks/readwritelock/ProducerConsumer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,11 +60,15 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.AggregationExample.executor&quot;: &quot;Run&quot;,
     &quot;Application.AnnotationsExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AssociationExample.executor&quot;: &quot;Run&quot;,
     &quot;Application.ComparatorComparableExm.executor&quot;: &quot;Run&quot;,
     &quot;Application.CompileTimeExceptions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CompositionExample.executor&quot;: &quot;Run&quot;,
     &quot;Application.ConsumerExample.executor&quot;: &quot;Run&quot;,
     &quot;Application.CustomException.executor&quot;: &quot;Run&quot;,
+    &quot;Application.D.executor&quot;: &quot;Run&quot;,
     &quot;Application.DeadLockMain.executor&quot;: &quot;Run&quot;,
     &quot;Application.FunctionalInterfaceExamples.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
@@ -68,6 +81,7 @@
     &quot;Application.ThreadingExm.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
@@ -82,7 +96,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -122,7 +136,11 @@
       <workItem from="1772014029764" duration="21135000" />
       <workItem from="1772274350633" duration="11685000" />
       <workItem from="1772552918245" duration="6569000" />
-      <workItem from="1772607696569" duration="9227000" />
+      <workItem from="1772607696569" duration="9803000" />
+      <workItem from="1772650715120" duration="774000" />
+      <workItem from="1772651661103" duration="167000" />
+      <workItem from="1772651873489" duration="1130000" />
+      <workItem from="1772653722154" duration="17239000" />
     </task>
     <task id="LOCAL-00001" summary="singleton class examples">
       <option name="closed" value="true" />
@@ -212,7 +230,23 @@
       <option name="project" value="LOCAL" />
       <updated>1772561498012</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="java multithreading concepts">
+      <option name="closed" value="true" />
+      <created>1772650295290</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1772650295290</updated>
+    </task>
+    <task id="LOCAL-00013" summary="java concepts">
+      <option name="closed" value="true" />
+      <created>1773085726587</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1773085726587</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,7 +273,8 @@
     <MESSAGE value="java Exceptions concept" />
     <MESSAGE value="update" />
     <MESSAGE value="java multithreading concepts" />
-    <option name="LAST_COMMIT_MESSAGE" value="java multithreading concepts" />
+    <MESSAGE value="java concepts" />
+    <option name="LAST_COMMIT_MESSAGE" value="java concepts" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

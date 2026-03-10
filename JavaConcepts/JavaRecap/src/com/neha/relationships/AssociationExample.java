@@ -1,4 +1,4 @@
-package com.neha.has.a.relationship.association;
+package com.neha.relationships;
 
 class Course{
     private String name;
