@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36383992-d4d7-4e52-aeb3-0b5b7de9ab8d" name="Changes" comment="initial version">
+    <list default="true" id="36383992-d4d7-4e52-aeb3-0b5b7de9ab8d" name="Changes" comment="Java Non Static Inner Class concept">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/neha/functional/FunctionalInterfaceExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/neha/functional/FunctionalInterfaceExamples.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaProjects/BankApplication/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaProjects/BankApplication/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neha/nestedclass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/neha/nestedclass/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +54,7 @@
   "keyToString": {
     "Application.AggregationExample.executor": "Run",
     "Application.AnnotationsExample.executor": "Run",
+    "Application.AnonymousClass.executor": "Run",
     "Application.AssociationExample.executor": "Run",
     "Application.ComparatorComparableExm.executor": "Run",
     "Application.CompileTimeExceptions.executor": "Run",
@@ -64,11 +64,14 @@
     "Application.D.executor": "Run",
     "Application.DeadLockMain.executor": "Run",
     "Application.FunctionalInterfaceExamples.executor": "Run",
+    "Application.GenericsRecapExample.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.NonStaticInnerClass.executor": "Run",
     "Application.ReflectionExample.executor": "Run",
     "Application.ReflectionInSingleton.executor": "Run",
     "Application.RunTimeExceptionsExm.executor": "Run",
     "Application.ShareResourseMain.executor": "Run",
+    "Application.StaticNestedInnerClass.executor": "Run",
     "Application.StreamsExample.executor": "Run",
     "Application.SwitchExpressionExample.executor": "Run",
     "Application.ThreadPoolExecutorExample.executor": "Run",
@@ -135,7 +138,7 @@
       <workItem from="1772651661103" duration="167000" />
       <workItem from="1772651873489" duration="1130000" />
       <workItem from="1772653722154" duration="19672000" />
-      <workItem from="1773171778544" duration="7598000" />
+      <workItem from="1773171778544" duration="18570000" />
     </task>
     <task id="LOCAL-00001" summary="singleton class examples">
       <option name="closed" value="true" />
@@ -265,7 +268,31 @@
       <option name="project" value="LOCAL" />
       <updated>1773162340130</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="ThreadPoolExecutor concept">
+      <option name="closed" value="true" />
+      <created>1773253254815</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1773253254815</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Java Static Inner Class concept">
+      <option name="closed" value="true" />
+      <created>1773586380999</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1773586380999</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Java Non Static Inner Class concept">
+      <option name="closed" value="true" />
+      <created>1773587142428</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1773587142428</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -294,7 +321,10 @@
     <MESSAGE value="java multithreading concepts" />
     <MESSAGE value="java concepts" />
     <MESSAGE value="initial version" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial version" />
+    <MESSAGE value="ThreadPoolExecutor concept" />
+    <MESSAGE value="Java Static Inner Class concept" />
+    <MESSAGE value="Java Non Static Inner Class concept" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Non Static Inner Class concept" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

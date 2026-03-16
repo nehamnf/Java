@@ -9,5 +9,11 @@ public class Main {
         NonStaticInnerClass nonStaticInnerClass =  new NonStaticInnerClass();
         NonStaticInnerClass.InnerClass  innerClass1 = nonStaticInnerClass.new InnerClass();
         innerClass1.show();
+
+        InheritanceInnerClass inheritanceInnerClass = new InheritanceInnerClass();
+        inheritanceInnerClass.show();
+
+        StaticInheritanceClass staticInheritanceClass = new StaticInheritanceClass();
+        staticInheritanceClass.show();
     }
 }
