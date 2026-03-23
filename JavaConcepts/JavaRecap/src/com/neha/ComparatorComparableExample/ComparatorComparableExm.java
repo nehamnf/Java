@@ -1,7 +1,6 @@
-package ComparatorComparableExample;
+package com.neha.ComparatorComparableExample;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 

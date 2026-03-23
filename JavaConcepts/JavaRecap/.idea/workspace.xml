@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36383992-d4d7-4e52-aeb3-0b5b7de9ab8d" name="Changes" comment="Java Non Static Inner Class concept">
+    <list default="true" id="36383992-d4d7-4e52-aeb3-0b5b7de9ab8d" name="Changes" comment="Generic Class and Generic Method Example">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/neha/nestedclass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/neha/nestedclass/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaRecap.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRecap.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ComparatorComparableExample/ComparatorComparableExm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/neha/ComparatorComparableExample/ComparatorComparableExm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,13 +65,16 @@
     "Application.D.executor": "Run",
     "Application.DeadLockMain.executor": "Run",
     "Application.FunctionalInterfaceExamples.executor": "Run",
+    "Application.GenericBoundExamples.executor": "Run",
     "Application.GenericsRecapExample.executor": "Run",
+    "Application.GenericsWildcardsExample.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.NonStaticInnerClass.executor": "Run",
     "Application.ReflectionExample.executor": "Run",
     "Application.ReflectionInSingleton.executor": "Run",
     "Application.RunTimeExceptionsExm.executor": "Run",
     "Application.ShareResourseMain.executor": "Run",
+    "Application.SqliteDatabase.executor": "Run",
     "Application.StaticNestedInnerClass.executor": "Run",
     "Application.StreamsExample.executor": "Run",
     "Application.SwitchExpressionExample.executor": "Run",
@@ -90,9 +94,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.6310345",
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
@@ -138,7 +142,8 @@
       <workItem from="1772651661103" duration="167000" />
       <workItem from="1772651873489" duration="1130000" />
       <workItem from="1772653722154" duration="19672000" />
-      <workItem from="1773171778544" duration="18570000" />
+      <workItem from="1773171778544" duration="19549000" />
+      <workItem from="1773740953451" duration="26016000" />
     </task>
     <task id="LOCAL-00001" summary="singleton class examples">
       <option name="closed" value="true" />
@@ -292,7 +297,23 @@
       <option name="project" value="LOCAL" />
       <updated>1773587142428</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Generic Class and Generic Method Example">
+      <option name="closed" value="true" />
+      <created>1773691390997</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1773691390997</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Generic Class and Generic Method Example">
+      <option name="closed" value="true" />
+      <created>1773763735861</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1773763735861</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -324,7 +345,8 @@
     <MESSAGE value="ThreadPoolExecutor concept" />
     <MESSAGE value="Java Static Inner Class concept" />
     <MESSAGE value="Java Non Static Inner Class concept" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Non Static Inner Class concept" />
+    <MESSAGE value="Generic Class and Generic Method Example" />
+    <option name="LAST_COMMIT_MESSAGE" value="Generic Class and Generic Method Example" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
