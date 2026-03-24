@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36383992-d4d7-4e52-aeb3-0b5b7de9ab8d" name="Changes" comment="Generic Class and Generic Method Example">
-      <change beforePath="$PROJECT_DIR$/../../JavaProjects/BankApplication/BankApplication.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="36383992-d4d7-4e52-aeb3-0b5b7de9ab8d" name="Changes" comment="Generics and JDBC concepts" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -311,7 +309,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773763735861</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Generics and JDBC concept">
+      <option name="closed" value="true" />
+      <created>1774380967837</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1774380967838</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -344,7 +350,8 @@
     <MESSAGE value="Java Static Inner Class concept" />
     <MESSAGE value="Java Non Static Inner Class concept" />
     <MESSAGE value="Generic Class and Generic Method Example" />
-    <option name="LAST_COMMIT_MESSAGE" value="Generic Class and Generic Method Example" />
+    <MESSAGE value="Generics and JDBC concepts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Generics and JDBC concepts" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
