@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36383992-d4d7-4e52-aeb3-0b5b7de9ab8d" name="Changes" comment="Generic Class and Generic Method Example">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaRecap.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRecap.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ComparatorComparableExample/ComparatorComparableExm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/neha/ComparatorComparableExample/ComparatorComparableExm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProjects/BankApplication/BankApplication.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,56 +49,56 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AggregationExample.executor": "Run",
-    "Application.AnnotationsExample.executor": "Run",
-    "Application.AnonymousClass.executor": "Run",
-    "Application.AssociationExample.executor": "Run",
-    "Application.ComparatorComparableExm.executor": "Run",
-    "Application.CompileTimeExceptions.executor": "Run",
-    "Application.CompositionExample.executor": "Run",
-    "Application.ConsumerExample.executor": "Run",
-    "Application.CustomException.executor": "Run",
-    "Application.D.executor": "Run",
-    "Application.DeadLockMain.executor": "Run",
-    "Application.FunctionalInterfaceExamples.executor": "Run",
-    "Application.GenericBoundExamples.executor": "Run",
-    "Application.GenericsRecapExample.executor": "Run",
-    "Application.GenericsWildcardsExample.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.NonStaticInnerClass.executor": "Run",
-    "Application.ReflectionExample.executor": "Run",
-    "Application.ReflectionInSingleton.executor": "Run",
-    "Application.RunTimeExceptionsExm.executor": "Run",
-    "Application.ShareResourseMain.executor": "Run",
-    "Application.SqliteDatabase.executor": "Run",
-    "Application.StaticNestedInnerClass.executor": "Run",
-    "Application.StreamsExample.executor": "Run",
-    "Application.SwitchExpressionExample.executor": "Run",
-    "Application.ThreadPoolExecutorExample.executor": "Run",
-    "Application.ThreadingExm.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/NehaMN/IdeaProjects/Java2026/JavaPractise/Java/JavaConcepts/JavaRecap",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.6310345",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AggregationExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AnnotationsExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AnonymousClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AssociationExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComparatorComparableExm.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CompileTimeExceptions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CompositionExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConsumerExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CustomException.executor&quot;: &quot;Run&quot;,
+    &quot;Application.D.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DeadLockMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FunctionalInterfaceExamples.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenericBoundExamples.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenericsRecapExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenericsWildcardsExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NonStaticInnerClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReflectionExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReflectionInSingleton.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RunTimeExceptionsExm.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ShareResourseMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SqliteDatabase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StaticNestedInnerClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamsExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwitchExpressionExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadPoolExecutorExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadingExm.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/NehaMN/IdeaProjects/Java2026/JavaPractise/Java/JavaConcepts/JavaRecap&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.6310345&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\NehaMN\IdeaProjects\Java2026\JavaPractise\Java\JavaRecap\JavaRecap\src\com\neha\generics" />
