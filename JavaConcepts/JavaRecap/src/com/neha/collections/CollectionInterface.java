@@ -2,6 +2,7 @@ package com.neha.collections;
 
 import java.util.ArrayList;
 import java.util.Collection;
+import java.util.Iterator;
 
 public class CollectionInterface {
     public static void main(String[] args) {
@@ -34,6 +35,18 @@ public class CollectionInterface {
         collection.removeIf( n -> (n.intValue() % 2) == 0);
 
         System.out.println(collection);
+
+        collection.remove(1);
+
+        System.out.println(collection);
+
+        collection.addAll(collection1);
+        System.out.println(collection);
+
+        Iterator<Number> iterator = collection.iterator();
+        while(iterator.hasNext()){
+            System.out.println("Iterator: "+iterator.next());
+        }
 
     }
 }
