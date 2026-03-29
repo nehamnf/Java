@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36383992-d4d7-4e52-aeb3-0b5b7de9ab8d" name="Changes" comment="update">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/neha/collections/CollectionInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/neha/collections/CollectionInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaProjects/BankingApp/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaProjects/BankingApp/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaProjects/BankingApp/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaProjects/BankingApp/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="36383992-d4d7-4e52-aeb3-0b5b7de9ab8d" name="Changes" comment="collections java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -146,7 +141,7 @@
       <workItem from="1772653722154" duration="19672000" />
       <workItem from="1773171778544" duration="19549000" />
       <workItem from="1773740953451" duration="26016000" />
-      <workItem from="1774549396294" duration="1763000" />
+      <workItem from="1774549396294" duration="2389000" />
     </task>
     <task id="LOCAL-00001" summary="singleton class examples">
       <option name="closed" value="true" />
@@ -332,7 +327,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774381128332</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="collections java">
+      <option name="closed" value="true" />
+      <created>1774552946077</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1774552946077</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -366,7 +369,8 @@
     <MESSAGE value="Generic Class and Generic Method Example" />
     <MESSAGE value="Generics and JDBC concepts" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="collections java" />
+    <option name="LAST_COMMIT_MESSAGE" value="collections java" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
