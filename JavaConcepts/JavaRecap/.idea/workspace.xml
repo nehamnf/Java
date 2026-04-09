@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36383992-d4d7-4e52-aeb3-0b5b7de9ab8d" name="Changes" comment="collections java">
-      <change afterPath="$PROJECT_DIR$/../../JavaProjects/Demo2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaProjects/BankingApp/src/main/java/com/banking/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaProjects/BankingApp/src/main/java/com/banking/dao/UserDao.java" afterDir="false" />
-    </list>
+    <list default="true" id="36383992-d4d7-4e52-aeb3-0b5b7de9ab8d" name="Changes" comment="collections java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,6 +151,7 @@
       <workItem from="1774982124617" duration="249000" />
       <workItem from="1774982673621" duration="342000" />
       <workItem from="1775237355487" duration="596000" />
+      <workItem from="1775546872904" duration="1173000" />
     </task>
     <task id="LOCAL-00001" summary="singleton class examples">
       <option name="closed" value="true" />
